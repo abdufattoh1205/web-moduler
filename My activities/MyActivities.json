@@ -1,0 +1,21 @@
+[
+	
+    
+        {
+            "thumbnail": "./portfolio1.jpg",
+            "image": "./portfolio1.jpg"
+        },
+        
+        
+        {
+            "thumbnail": "./portfolio2.png",
+            "image": "./portfolio2.png"
+        },
+
+        
+        {
+            "thumbnail": "./portfolio3.png",
+            "image": "./1.jpg"
+        }
+        
+    ]
